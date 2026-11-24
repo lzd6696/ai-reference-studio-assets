@@ -1,0 +1,6 @@
+*.js -text
+*.png -text
+*.webp -text
+*.json text eol=lf
+*.md text eol=lf
+*.sha256 text eol=lf
