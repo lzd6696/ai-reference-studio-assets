@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
+  "revision": 2,
   "upstream": {
     "face": {
       "path": "source/face.js",
@@ -17159,7 +17159,8 @@
       "source": "public",
       "tags": [
         "脸部特写",
-        "中长发"
+        "中长发",
+        "6.5 驗收暫用"
       ],
       "originalFormat": "PNG",
       "width": 1122,
